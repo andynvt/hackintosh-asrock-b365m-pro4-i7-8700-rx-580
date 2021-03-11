@@ -1,2 +1,2 @@
-# hackintosh-asrock-b365m-pro4-i7-8700-rx-580
+# OpenCore hackintosh Asrock B365m Pro4 i7-8700 RX-580
 EFI for hackintosh OpenCore
